@@ -22,8 +22,7 @@ pip install -r requirements.txt
 
 ## CRISPR-AIdit Web Server
 
-To predict and download profiles for individual gRNAs,  the graphical user 846
-interface (GUI) is available at:
+To predict and download profiles for individual gRNAs,  the graphical user interface (GUI) is available at:
 
 https://crispr-aidit.com
 
