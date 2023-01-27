@@ -29,7 +29,7 @@ https://crispr-aidit.com
 
 ## CRISPR-AIdit Command Line Tool
 
-Follow the installation instructions [here](#system).
+Follow the installation instructions.
 
 ***
 ### For on-target prediction, from a command line:
