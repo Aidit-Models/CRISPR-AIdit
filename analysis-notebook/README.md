@@ -1,6 +1,6 @@
 # Files Description
 
-* The folder [data]() contains some datasets of On-target, Off-Target and DSB-induced repair for analysis and visualization.  
+* The folder [data](data) contains some datasets of On-target, Off-Target and DSB-induced repair for analysis and visualization.  
 
 
 ## For On-Target
