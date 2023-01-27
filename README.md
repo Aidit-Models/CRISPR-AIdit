@@ -32,7 +32,10 @@ https://crispr-aidit.com
 Follow the installation instructions.
 
 ***
-### For on-target prediction, from a command line:
+### For on-target prediction
+
+From a command line:
+
 ```
 cd predictors/on-target
 ```
@@ -77,7 +80,9 @@ ATTCACGAAGGGCTGCAGGAAGCGTACCCCCAGGTCTTGCAGGTCCTCGGGAGGCTTCACCTC 0.07399143
 
 ***
 
-### For off-target prediction, from a command line:
+### For off-target prediction
+
+From a command line:
 
 ```
 cd predictors/off-target
@@ -112,7 +117,9 @@ GTACCTCAGCCAGCATGGCAGCCTCTTTCCCACCCACCTTGGGACTCAGTTCTGCCCCAGATG	GCTCATGCTTGTCTCT
 
 ***
 
-### For DSB-induced repair outcome prediction, from a command line:  
+### For DSB-induced repair outcome prediction
+
+From a command line:  
 
 ```
 cd predictors/DSB_repair
