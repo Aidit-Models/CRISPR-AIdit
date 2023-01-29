@@ -9,7 +9,7 @@
 * [On-Target/run.sh](On-Target/run.sh) is the script for running the training scripts of the CRISPR/Cas9-gRNA on-target model.
 * [On-Target/demo datasets](On-Target/demo%20datasets) contains demo datasets for training CRISPR/Cas9-gRNA on-target model (The completed training dataset can be downloaded from in [the crispt-aidit website](https://crispr-aidit.com)).
 
-## For on-target
+## For off-target
 ***
 * [Off-Target/data.py](Off-Target/data.py) contains the code for extracting sequence and biological features.    
 * [Off-Target/models.py](Off-Target/models.py) contains the code for building the final off-target model architecture.  
@@ -19,7 +19,7 @@
 * [Off-Target/run.sh](Off-Target/run.sh) is the script for running the training scripts of the CRISPR/Cas9-gRNA off-target model.  
 * [Off-Target/demo datasets](Off-Target/demo%20datasets) contains some demo datasets for training the CRISPR/Cas9-gRNA off-target model (The completed training dataset can be downloaded from in [the crispt-aidit website](https://crispr-aidit.com)).  
 
-## For on-target
+## For DSB repair
 ***
 * [DSB_repair/DSB_Repair_Feature_and_Categories.py](DSB_repair/DSB_Repair_Feature_and_Categories.py) contains the code or extracting sequence and micro-homology features.  
 * [DSB_repair/DSB_Repair_Engineered_Feature.py](DSB_repair/DSB_Repair_Engineered_Feature.py) contains the code for extracting xgboosts' prediction features.    
