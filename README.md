@@ -163,8 +163,9 @@ CAGATTAGTCGATGCAAATGTTAAAAACGTGTTGGCAAGCTGGATGAGCAGGTTTGTATTTTAGTTTGTATTACCGCCAT
 
 ## Folders Description
 
-***
 
 * The folder [analysis-notebook](analysis-notebook) contains ipynb files and some datasets for analysis, comparison, evaluation and visualization for data and models of On-target, Off-Target and DSB-induced repair, respectively. [See details at analysis-notebook/README.md](analysis-notebook/README.md) 
 * The folder [predictors](predictors) contains the prediction codes, the final model files and some demo datasets for On-target, Off-Target and DSB repair, respectively. [See details at predictors/README.md](predictors/README.md)  
 * The folder [training-evaluation](training-evaluation) contains the codes, scripts and some demo datasets for feature engineering, model training and evaluation of On-target, off-target and DSB repair, respectively. [See details at: training & evaluation/README.md](training-evaluation/README.md)
+
+***
