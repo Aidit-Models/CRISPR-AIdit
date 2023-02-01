@@ -7,7 +7,7 @@
 * [On-Target/main.py](On-Target/main.py) contains the code for training the CRISPR/Cas9-gRNA on-target algorithm.  
 * [On-Target/evaluation functions.py](On-Target/evaluation%20functions.py) contains the code for evaluation of on-target models.  
 * [On-Target/run.sh](On-Target/run.sh) is the script for running the training scripts of the CRISPR/Cas9-gRNA on-target model.
-* [On-Target/demo datasets](On-Target/demo%20datasets) contains demo datasets for training CRISPR/Cas9-gRNA on-target model (The completed training dataset can be downloaded from in [the crispt-aidit website](https://crispr-aidit.com)).
+* [On-Target/demo datasets](On-Target/demo%20datasets) contains demo datasets for training CRISPR/Cas9-gRNA on-target model.
 
 ## For off-target
 ***
@@ -17,7 +17,7 @@
 * [Off-Target/demo datasets/off-target_model_parameters.log](Off-Target/demo%20datasets/off-target_model_parameters.log) contains the final off-target model hyper-parameters.  
 * [Off-Target/evaluation functions.py](Off-Target/evaluation%20functions.py) contains the code for evaluation of off-target models.  
 * [Off-Target/run.sh](Off-Target/run.sh) is the script for running the training scripts of the CRISPR/Cas9-gRNA off-target model.  
-* [Off-Target/demo datasets](Off-Target/demo%20datasets) contains some demo datasets for training the CRISPR/Cas9-gRNA off-target model (The completed training dataset can be downloaded from in [the crispt-aidit website](https://crispr-aidit.com)).  
+* [Off-Target/demo datasets](Off-Target/demo%20datasets) contains some demo datasets for training the CRISPR/Cas9-gRNA off-target model.  
 
 ## For DSB repair
 ***
@@ -27,5 +27,5 @@
 * [DSB_repair/main.py](DSB_repair/main.py) contains the code for training the algorithm of the CRISPR/Cas9-gRNA DSB-induced repair outcome.  
 * [DSB_repair/evaluation functions.py](DSB_repair/evaluation%20functions.py) contains the code for evaluation of DSB-induced repair models.  
 * [DSB_repair/run.sh](DSB_repair/run.sh) is the script for running the training scripts of the CRISPR/Cas9-gRNA DSB-induced repair model.
-* [DSB_repair/demo datasets](DSB_repair/demo%20datasets) contains some demo datasets for training the CRISPR/Cas9-gRNA oDSB-induced repair model (The completed training dataset can be downloaded from in [the crispt-aidit website](https://crispr-aidit.com)). 
+* [DSB_repair/demo datasets](DSB_repair/demo%20datasets) contains some demo datasets for training the CRISPR/Cas9-gRNA oDSB-induced repair model. 
 
