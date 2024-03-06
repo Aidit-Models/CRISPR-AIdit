@@ -1,5 +1,0 @@
-count	cell_line	reads_cutoff	model_label	fixed_feat	feat_label	params
-44	K562	200	MLP	all	+P+M	{'alpha': 0.008813467753305038, 'hidden_layer_sizes_1': 550, 'hidden_layer_sizes_2': 490, 'hidden_layer_sizes_3': 50, 'hidden_layer_sizes_4': 50, 'hidden_layer_sizes_5': 170, 'max_iter': 330}
-23	K562	200	Lasso	all	+P+M	{'alpha': 9.097188913258596e-06}
-49	K562	200	Ridge	all	+P+M	{'alpha': 94.91294076617999}
-24	K562	200	Elastic	all	+P+M	{'alpha': 0.0019169762956871526, 'l1_ratio': 0.0003601430865976743}
